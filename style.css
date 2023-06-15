@@ -1,0 +1,36 @@
+.line{
+height: 6px;
+background-color: black;
+width: 70px;
+margin:8px auto;
+}
+
+body{
+text-align: center;
+}
+
+#apps{
+background-color: aqua;
+}
+
+#chatbot{
+background-color: rgb(75, 179, 214);
+}
+
+#myCarousel{
+background-color: rgb(74, 130, 186);
+}
+
+#myCarousel img{
+width:300px;
+height: 300px;
+margin-top: 35px;
+}
+
+.carousel-inner p {
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
+
+
